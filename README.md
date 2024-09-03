@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charles-stricklin or Charles Stricklin in Human.
-- 👀 I’m interested in learning how to code in Swift for iOS principle and possibly macOS later.
+- 👀 I’m interested in learning how to code in Swift for iOS principally and possibly macOS later.
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on nothing at the moment because I'd probably just mess your project up I'm so new.
 - 📫 The best way to reach me would probably be just an email, I'm using mycode@charlesstricklin.com for now.
